@@ -4,3 +4,4 @@ brutos/
 brutos/
 .env
 .venv/
+*.db
